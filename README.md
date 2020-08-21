@@ -1,2 +1,2 @@
 # oi_templates
-OI Templates
+Templates for OI.
